@@ -5,6 +5,8 @@ Hi I'm Connor MacKinnon. I'm from Massachusetts and it is safe to say that I've 
 
 ![Senior Photo](https://user-images.githubusercontent.com/89928233/132044330-71b52f21-f0f4-401d-bf55-2a373e88157a.jpg)
 
+
+
 Here is a result of my homework using an online ide (Can't install R yet! Waiting for computer to be repaired.)
 
 ![R Graph](https://user-images.githubusercontent.com/89928233/131765115-f64948fc-5ebc-4864-b22f-4b97dad5692c.png)
