@@ -11,4 +11,4 @@
 
 5. What is the significance of how Hans Rosling uses data to describe global human development in terms of very high spatial and temporal resolutions?
 
-6. In your opinion, why was Hans Roslings work with the Gapminder project 
+6. In your opinion, why was Hans Roslings work with the Gapminder project significant to the remarkable process in the area of data science and human development?
