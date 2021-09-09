@@ -6,7 +6,6 @@
 
 3. In accordance with Hans Rosling's TED talk, what is the relationshio between child mortality and GDP per capita?
 
-
 4. In terms of income distribution, how has the world changed from 1962 till 2003?
 
 5. What is the significance of how Hans Rosling uses data to describe global human development in terms of very high spatial and temporal resolutions?
