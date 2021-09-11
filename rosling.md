@@ -1,6 +1,6 @@
 [//] <> 2,3,4 sentences-ish each
 
-1. What did Hans Rosling say about his survey of the new students at the Karolinska Institute and how they compared with the Chimpanzees (as well as the faculty who decide the Nobel)? What is the significance of the results from his informal survey on preconcieved ideas?
+##1. What did Hans Rosling say about his survey of the new students at the Karolinska Institute and how they compared with the Chimpanzees (as well as the faculty who decide the Nobel)? What is the significance of the results from his informal survey on preconcieved ideas?
 
 2. What type of change took place in Asia preceeded economic growth? Why was this type of change significant?
 
