@@ -1,4 +1,4 @@
-<h3> 1) What did Hans Rosling say about his survey of the new students at the Karolinska Institute and how they compared with the Chimpanzees (as well as the faculty who decide the Nobel)? What is the significance of the results from his informal survey on preconceived ideas? </h3>
+<h4> 1) What did Hans Rosling say about his survey of the new students at the Karolinska Institute and how they compared with the Chimpanzees (as well as the faculty who decide the Nobel)? What is the significance of the results from his informal survey on preconceived ideas? </h4>
 
 Rosling joked that Chimpanzees would score better than his students because they would be picking at random. The faculty was also on par with the chimpanzee's percentage right which he joked about as well. Beyond the jokes he was making however, Rosling concluded that the data around countries and poverty was incredibly important and not as well known as one might expect. The results of the survey show that there are preconceived ideas about countries and their economic status that are unduly assumed and also how "first world" or "western world" countries view the others as "third world" and separate.
 
