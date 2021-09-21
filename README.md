@@ -10,6 +10,8 @@ Hi I'm Connor MacKinnon. I'm from Massachusetts, about an hour south of Boston! 
 
 [Getting Started with R](https://user-images.githubusercontent.com/89928233/132248051-3bfd52b3-3c43-47f1-b9fd-f814d5523b86.png)
 
+Sept 21st Owen Barder [Development and Complexity - Video Questions](barder.html)
+
 ### Formal Assignments:
 
 Sept 9th Hans Rosling [The Best Stats Ever](rosling.html)
