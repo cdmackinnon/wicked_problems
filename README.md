@@ -14,6 +14,8 @@ Sept 21st Owen Barder [Development and Complexity - Video Questions](barder.html
 
 Sept 23rd [Development Response - Selim Jahan](development_response_selim_jahan.html)
 
+Sept 28th [Introduction] (
+
 ### Formal Assignments:
 
 Sept 9th Hans Rosling [The Best Stats Ever](rosling.html)
