@@ -14,7 +14,7 @@ Sept 21st Owen Barder [Development and Complexity - Video Questions](barder.html
 
 Sept 23rd [Development Response - Selim Jahan](development_response_selim_jahan.html)
 
-Sept 28th [Introduction] (
+Sept 28th [Introduction] (Background_Essay.html)
 
 ### Formal Assignments:
 
