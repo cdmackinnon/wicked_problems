@@ -16,6 +16,8 @@ Sept 23rd [Development Response - Selim Jahan](development_response_selim_jahan.
 
 Sept 28th [Introduction](Background_Essay.html)
 
+Sept 30th [Gapminder Graphing](gapminder.html)
+
 ### Formal Assignments:
 
 Sept 9th Hans Rosling [The Best Stats Ever](rosling.html)
