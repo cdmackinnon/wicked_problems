@@ -21,3 +21,5 @@ Sept 30th [Gapminder Graphing](gapminder.html)
 ### Formal Assignments:
 
 Sept 9th Hans Rosling [The Best Stats Ever](rosling.html)
+
+Oct 3rd Annotated Bibliography [Urbanization in Africa and the Congo](https://docs.google.com/document/d/1wVSNBVGu4xc3zhLzzHofKdePbWwwcFmmbu1LqQfDe44/edit?usp=sharing)
