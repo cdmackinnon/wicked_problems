@@ -20,6 +20,8 @@ Sept 30th [Gapminder Graphing](gapminder.html)
 
 Oct 7th [Our_World_In_Data](our_world_in_data.html)
 
+Oct 12th [China's BRI Project](belt_and_road.html)
+
 ### Formal Assignments:
 
 Sept 9th Hans Rosling [The Best Stats Ever](rosling.html)
