@@ -18,7 +18,7 @@ Sept 28th [Introduction](Background_Essay.html)
 
 Sept 30th [Gapminder Graphing](gapminder.html)
 
-Oct 7th [Our_World_In_Data](our_world_in_data.html)
+Oct 7th [Our World In Data](our_world_in_data.html)
 
 Oct 12th [China's BRI Project](belt_and_road.html)
 
