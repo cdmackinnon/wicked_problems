@@ -22,7 +22,7 @@ Oct 7th [Our World In Data](our_world_in_data.html)
 
 Oct 12th [China's BRI Project](belt_and_road.html)
 
-Oct 21st [Peter Diamandis_Evidence of Abundance](diamandis_response.html)
+Oct 21st [Peter Diamandis Evidence of Abundance](diamandis_response.html)
 
 ### Formal Assignments:
 
