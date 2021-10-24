@@ -29,3 +29,5 @@ Oct 21st Peter Diamandis Evidence of Abundance [Data on Abundance](diamandis_res
 ### Formal Assignments:
 
 Oct 3rd Annotated Bibliography [Urbanization in Africa and the Congo](https://docs.google.com/document/d/1wVSNBVGu4xc3zhLzzHofKdePbWwwcFmmbu1LqQfDe44/edit?usp=sharing)
+
+Oct 24th Literature Review [Urbanization And The Congo Literature Review](https://docs.google.com/document/d/1P6esmpasX3PkEcbMCiQH4L7mXFkB6rbZJ9qB_0HGOQo/edit?usp=sharing)
