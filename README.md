@@ -26,7 +26,7 @@ Oct 12th [China's BRI Project](belt_and_road.html)
 
 Oct 21st Peter Diamandis Evidence of Abundance [Data on Abundance](diamandis_response.html)
 
-Oct 28th [Data Science Branches] (what_is_data_science.html)
+Oct 28th [Data Science Branches](what_is_data_science.html)
 
 ### Formal Assignments:
 
