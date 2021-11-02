@@ -28,6 +28,8 @@ Oct 21st Peter Diamandis Evidence of Abundance [Data on Abundance](diamandis_res
 
 Oct 28th [Data Science Branches](what_is_data_science.html)
 
+Nov 2nd [Human Development Index](hdi.html)
+
 ### Formal Assignments:
 
 Oct 3rd Annotated Bibliography [Urbanization in Africa and the Congo](https://docs.google.com/document/d/1wVSNBVGu4xc3zhLzzHofKdePbWwwcFmmbu1LqQfDe44/edit?usp=sharing)
