@@ -30,6 +30,8 @@ Oct 28th [Data Science Branches](what_is_data_science.html)
 
 Nov 2nd [Human Development Index](hdi.html)
 
+Nov 4th [Article Suggestion](reading_suggestion.html)
+
 ### Formal Assignments:
 
 Oct 3rd Annotated Bibliography [Urbanization in Africa and the Congo](https://docs.google.com/document/d/1wVSNBVGu4xc3zhLzzHofKdePbWwwcFmmbu1LqQfDe44/edit?usp=sharing)
