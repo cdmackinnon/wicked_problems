@@ -36,6 +36,8 @@ Nov 9th [Facial Recognition/Facebook/Meta](facial_recognition.html)
 
 Nov 11 [Covid's Effect in Respective Fields](covid_and_society.html)
 
+Nov 16 [Self-Driving Cars](self_driving_cars.html)
+
 ### Formal Assignments:
 
 Oct 3rd Annotated Bibliography [Urbanization in Africa and the Congo](https://docs.google.com/document/d/1wVSNBVGu4xc3zhLzzHofKdePbWwwcFmmbu1LqQfDe44/edit?usp=sharing)
