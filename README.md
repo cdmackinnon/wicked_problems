@@ -26,17 +26,17 @@ Oct 12th [China's BRI Project](belt_and_road.html)
 
 Oct 21st Peter Diamandis Evidence of Abundance [Data on Abundance](diamandis_response.html)
 
-Oct 28th [Data Science Branches](what_is_data_science.html)
+Oct 28th [What is Data Science?](what_is_data_science.html)
 
-Nov 2nd [Human Development Index](hdi.html)
+Nov 2nd [Human Development Index (HDI)](hdi.html)
 
-Nov 4th [Article Suggestion](reading_suggestion.html)
+Nov 4th [Recommendation](reading_suggestion.html)
 
 Nov 9th [Facial Recognition/Facebook/Meta](facial_recognition.html)
 
-Nov 11 [Covid's Effect in Respective Fields](covid_and_society.html)
+Nov 11 [COVID Effects](covid_and_society.html)
 
-Nov 16 [Self-Driving Cars](self_driving_cars.html)
+Nov 16 [Self-Driving Vehicles](self_driving_cars.html)
 
 ### Formal Assignments:
 
