@@ -43,3 +43,5 @@ Nov 16 [Self-Driving Vehicles](self_driving_cars.html)
 Oct 3rd Annotated Bibliography [Urbanization in Africa and the Congo](https://docs.google.com/document/d/1wVSNBVGu4xc3zhLzzHofKdePbWwwcFmmbu1LqQfDe44/edit?usp=sharing)
 
 Oct 24th Literature Review [Urbanization And The Congo Literature Review](https://docs.google.com/document/d/1P6esmpasX3PkEcbMCiQH4L7mXFkB6rbZJ9qB_0HGOQo/edit?usp=sharing)
+
+Nov 21st Methodological Investigation [Methodological Investigation of Urban Expansion](https://docs.google.com/document/d/1qkaeR9eUOAlEW7ocad4m8juGb2nyPlMU9xzizCZwVAA/edit?usp=sharing)
