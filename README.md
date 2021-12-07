@@ -47,3 +47,5 @@ Oct 24th Literature Review [Urbanization And The Congo Literature Review](https:
 Nov 21st Methodological Investigation [Methodological Investigation of Urban Expansion](https://docs.google.com/document/d/1qkaeR9eUOAlEW7ocad4m8juGb2nyPlMU9xzizCZwVAA/edit?usp=sharing)
 
 Dec 5th [Abstract](https://docs.google.com/document/d/1hiIqGfYwV91Kfk8HB7j54svk86I0SupOTAO7fFJlsBA/edit?usp=sharing)
+
+Dec 6th [Presentation](https://docs.google.com/presentation/d/1D5vO4IhJ5NHQn3CFNjnHwljCC_QbPcZtoj3oiOEr2Ho/edit?usp=sharing)
