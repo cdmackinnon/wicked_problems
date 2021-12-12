@@ -49,3 +49,5 @@ Nov 21st Methodological Investigation [Methodological Investigation of Urban Exp
 Dec 5th [Abstract](https://docs.google.com/document/d/1hiIqGfYwV91Kfk8HB7j54svk86I0SupOTAO7fFJlsBA/edit?usp=sharing)
 
 Dec 6th [Presentation](https://docs.google.com/presentation/d/1D5vO4IhJ5NHQn3CFNjnHwljCC_QbPcZtoj3oiOEr2Ho/edit?usp=sharing)
+
+Dec 12th [Final Paper: Sustainability In Kinshasa: Urbanization Research](https://docs.google.com/document/d/1EGEeFwkkz672riYuQ8MwMHPYZxVon6MIAR50hOCrawo/edit?usp=sharing)
